@@ -1,0 +1,19 @@
+body {
+  background-color: #ffe6f2;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #d63384;
+  text-align: center;
+}
+
+img {
+  border-radius: 20px;
+  width: 200px;
+}
+
+table {
+  background-color: white;
+  border-radius: 12px;
+}
