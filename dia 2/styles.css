@@ -1,6 +1,6 @@
 body {
   background-color: #ffe6f2;
-  font-family: Arial, sans-serif;
+  font-family: 'Courier New';
   color: #4a2c2a;
   margin: 0;
   padding: 30px;
@@ -17,7 +17,7 @@ h1 {
 
 h2 {
   color: #b83280;
-  border-bottom: 2px solid #d63384;
+  border-bottom: 2px solid #d6339a;
   padding-bottom: 5px;
 }
 
@@ -28,11 +28,11 @@ p {
 }
 
 img {
-  border-radius: 20px;
+  /* border-radius: 20px; */
   width: 200px;
   display: block;
   margin: 20px auto;
-  border: 5px solid white;
+  /* border: 5px solid white; */
 }
 
 ul {
@@ -46,7 +46,7 @@ li {
 }
 
 table {
-  background-color: rgb(255, 213, 184);
+  background-color: #deaa80;
   border-radius: 12px;
   margin: 25px auto;
   padding: 10px;
