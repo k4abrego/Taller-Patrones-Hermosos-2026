@@ -1,0 +1,27 @@
+.parrafo-bonito{
+    background-color: pink;
+    color:brown;
+}
+
+.parrafo-bonito:hover{
+    background-color: chocolate;
+}
+#titulo-principal{
+    color:purple;
+    font-family: "Lobster Two", sans-serif;
+    font-size:40px;
+}
+
+p{
+    color:blue;
+}
+
+p:hover{
+    background-color: darkgreen;
+}
+
+body{
+    background-color:bisque;
+}
+
+ 
