@@ -1,0 +1,25 @@
+/* Seleccionar la clase */
+
+.card {
+background-color: #f4f4f4;
+padding: 20px;
+border-radius: 15px; /* Bordes redondeados */
+}
+
+h1 {
+font-family: 'TuFuente', sans-serif;
+color: #333;
+}
+
+button {
+background-color: #007bff;
+color: white;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+}
+
+/* Efecto al pasar el mouse */
+button:hover {
+background-color: #0056b3;
+}
