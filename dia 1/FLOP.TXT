@@ -1,0 +1,9 @@
+let edad = 20;
+
+if (edad ___ 18) {
+  alert("Puedes entrar");
+} else {
+  alert("No puedes entrar");
+}
+
+
