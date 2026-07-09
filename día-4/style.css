@@ -1,25 +1,14 @@
-/* Seleccionar la clase */
-
-.card {
-background-color: #f4f4f4;
-padding: 20px;
-border-radius: 15px; /* Bordes redondeados */
+.galeria {
+  width:50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
 }
 
-h1 {
-font-family: 'TuFuente', sans-serif;
-color: #333;
-}
-
-button {
-background-color: #007bff;
-color: white;
-border: none;
-padding: 10px 20px;
-cursor: pointer;
-}
-
-/* Efecto al pasar el mouse */
-button:hover {
-background-color: #0056b3;
+.galeria img {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 20px;
 }
