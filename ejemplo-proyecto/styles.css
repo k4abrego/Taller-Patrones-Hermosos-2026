@@ -1,0 +1,34 @@
+.catalogo {
+    display: none;
+    margin-top: 20px;
+}
+
+.catalogo h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.catalogo table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.catalogo th,
+.catalogo td {
+    border: #73bdad; 
+    padding: 10px;
+    text-align: center;
+}
+
+.catalogo th {
+    background-color: #95b4df;
+    color: white;
+}
+
+.catalogo tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.catalogo tr:hover {
+    background-color: #dddddd;
+}
